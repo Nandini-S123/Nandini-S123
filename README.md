@@ -64,7 +64,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nandini-S123&layout=compact&theme=radical&hide_border=true&langs_count=8)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nandini-S123&theme=radical&hide_border=true)
+
 
 </div>
 
