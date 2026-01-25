@@ -1,11 +1,11 @@
 # Hi there! 👋 I'm Nandini S
 
 🎓 B.Tech CSE Student at PES University, Bangalore  
-💼 Data Analytics Intern @ CoDMaV Center  
+💼 Intern @ CoDMaV Center  
 💡 Passionate about AI/ML, Data Analytics & Cloud Computing
 
 ## 🚀 About Me
-- 🔭 Currently working on data analytics platforms for agricultural insights
+- 🔭 Currently working as Intern for agricultural insights
 - 🌱 Learning Generative AI, Transformers, LangChain & RAG
 - 💻 Proficient in Python, Java, C/C++, SQL
 - ☁️ Experienced with AWS, Docker, Kubernetes
@@ -95,8 +95,6 @@ Comprehensive stock tracking with automated alerts
 - ✅ AWS Serverless & Compute Certification - AWS
 - ✅ Jira Work Management Fundamentals Badge
 
-## 📈 Contribution Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nandini-S123&theme=redical&hide_border=true)
 
 ## 📫 Connect With Me
 
@@ -111,9 +109,7 @@ Comprehensive stock tracking with automated alerts
 ---
 
 <div align="center">
-  
-### 💭 Quote of the Day
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+ 
 
 **Thanks for visiting! 😊**
 
