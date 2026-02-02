@@ -56,15 +56,6 @@
 ![RAG](https://img.shields.io/badge/RAG-FF6B6B?style=for-the-badge)
 ![LLM](https://img.shields.io/badge/LLM_Fine--tuning-4A90E2?style=for-the-badge)
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![Nandini's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nandini-S123&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nandini-S123&layout=compact&theme=radical&hide_border=true&langs_count=8)
-
-
 
 </div>
 
