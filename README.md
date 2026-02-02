@@ -86,14 +86,17 @@ NLP-based social media content recommendation system
 - **Impact:** 40% improvement in engagement metrics
 
 ### 📦 [Inventory Management System](link-to-repo)
+Object-oriented inventory tracking with role-based workflows
 Comprehensive stock tracking with automated alerts
-- **Tech:** Python, MySQL, Flask
-- **Impact:** Reduced stock discrepancies by 35%
+- **Tech:** Java, MySQL, Servlets, JSP, MVC, UML
+- **Impact:**  Designed a robust MVC-based system with transaction management and exception handling, ensuring data consistency and reliable inventory operations
+Reduced stock discrepancies by 35%
 
 ## 🏆 Achievements & Certifications
 - ✅ Problem Solving & Java Certification - HackerRank
 - ✅ AWS Serverless & Compute Certification - AWS
 - ✅ Jira Work Management Fundamentals Badge
+
 
 
 ## 📫 Connect With Me
