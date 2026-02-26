@@ -5,9 +5,9 @@
 💡 Passionate about AI/ML, Data Analytics & Cloud Computing
 
 ## 🚀 About Me
-- 🔭 Currently working as Intern for agricultural insights
+- 🔭 Currently working on agricultural insights
 - 🌱 Learning Generative AI, Transformers, LangChain & RAG
-- 💻 Proficient in Python, Java, C/C++, SQL
+- 💻 Proficient in Python, Java, SQL
 - ☁️ Experienced with AWS, Docker, Kubernetes
 - 🤖 Interested in AI/ML, NLP, and Real-time Analytics
 - 📊 Building solutions that drive measurable impact
